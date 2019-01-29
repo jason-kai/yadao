@@ -38,6 +38,8 @@
             <version>2.9.2</version>
         </dependency>
 
+        <!-- 啊啊啊   难受啊 -->
+
         <!-- zuul支持-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
