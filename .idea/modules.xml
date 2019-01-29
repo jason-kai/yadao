@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yadao-plat-parent/employee-plat-interface/employee-plat-interface.iml" filepath="$PROJECT_DIR$/yadao-plat-parent/employee-plat-interface/employee-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yadao-plat-parent/employee-plat-service_8001/employee-plat-service_8001.iml" filepath="$PROJECT_DIR$/yadao-plat-parent/employee-plat-service_8001/employee-plat-service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver_7001/eurekaserver_7001.iml" filepath="$PROJECT_DIR$/eurekaserver_7001/eurekaserver_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yadao-parent.iml" filepath="$PROJECT_DIR$/yadao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yadao-plat-parent/yadao-plat-parent.iml" filepath="$PROJECT_DIR$/yadao-plat-parent/yadao-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway_9527/zuul-gateway_9527.iml" filepath="$PROJECT_DIR$/zuul-gateway_9527/zuul-gateway_9527.iml" />
+    </modules>
+  </component>
+</project>

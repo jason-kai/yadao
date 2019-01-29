@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic-util" />
+        <module name="employee-interface" />
+        <module name="employee-plat-interface" />
+        <module name="employee-plat-service" />
+        <module name="employee-plat-service_8001" />
+        <module name="EurekaServer_7001" />
+        <module name="eurekaserver_7001" />
+        <module name="zuul-gateway" />
+        <module name="zuul-gateway_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic-parent" target="1.8" />
+      <module name="basic-util" target="1.8" />
+      <module name="employee-interface" target="1.8" />
+      <module name="employee-plat-interface" target="1.8" />
+      <module name="employee-plat-service" target="1.8" />
+      <module name="employee-plat-service_8001" target="1.8" />
+      <module name="eurekaserver_7001" target="1.8" />
+      <module name="EurekaServer_7001" target="1.8" />
+      <module name="yadao-parent" target="1.8" />
+      <module name="yadao-plat-parent" target="1.8" />
+      <module name="zuul-gateway" target="1.8" />
+      <module name="zuul-gateway_9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

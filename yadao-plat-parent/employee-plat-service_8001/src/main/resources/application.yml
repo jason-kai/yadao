@@ -1,0 +1,11 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: employee-plat-provider
+eureka:
+  client:
+    service-url:
+      defaultZone: http://jason.kai-7001.cn:7001/eureka
+  instance:
+    prefer-ip-address: true
